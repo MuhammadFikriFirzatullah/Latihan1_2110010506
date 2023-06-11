@@ -21,7 +21,7 @@ public class Matematika {
         
     }
       //membuat method setPerkalian
-    public double setPenjumlahan(){
+    public double setPerkalian(){
         return bil1 * bil2;
         
     }
